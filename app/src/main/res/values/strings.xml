@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="edittext1">Number 1</string>
+    <string name="edittext2">Number 2</string>
+    <string name="button1">Add</string>
+    <string name="button2">Sub</string>
+</resources>
